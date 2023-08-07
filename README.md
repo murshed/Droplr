@@ -1,3 +1,5 @@
+Download the latest version https://files.droplr.com/apps/mac-current
+
 Effortlessly capture and mark up screenshots, make screencasts, and share any files you need with friends, colleagues, and clients. Take notes, capture whole websites as an image, shorten links, and do so much more! The tool is quick and intuitive to use. Its integrations with tools like Slack or Gmail make it so much more useful. Give it a go today and see how effective remote collaboration can be!
 
 
